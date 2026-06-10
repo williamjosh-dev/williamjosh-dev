@@ -30,7 +30,8 @@ A high-performance, web-based 4D physics simulation sandbox utilizing web graphi
 ---
 
 ### 🤝 Connect With Me
-* **X (Twitter):** [Replace with your X link]
-* **LinkedIn:** [Replace with your LinkedIn link]
+* **Discord (socials):** @william_josh_tech
+* **X (Twitter):** https://x.com/Josh_builds_itz
+
 
 *Open for remote deep-tech contract work, open-source collaborations, and developer grants.*
