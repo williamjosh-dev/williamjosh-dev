@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm William Josh 👋 
 
-<!--
-**williamjosh-dev/williamjosh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 15-year-old AI & Full-Stack Engineer focused on high-velocity shipping, GPGPU processing, and resilient agentic architectures. 
 
-Here are some ideas to get you started:
+🏆 **Global Ranking:** Placed 10th globally in the San Francisco Agentic AI Hackathon.
+🚀 **Focus:** Building self-healing pipelines and web-based parallel compute environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Featured Shipped Projects
+
+#### 🎙️ [AI-Dubbing-Tool](https://github.com)
+A production-ready, multimodal multilingual dubbing pipeline featuring an enterprise-grade resilient voice engine.
+* **Resilience Pattern:** Engineered a 4-tier automated fallback cascade (ElevenLabs ➔ Coqui/XTTS ➔ Google Cloud ➔ gTTS) to handle live API rate limits and zero-downtime failures.
+* **Core Tech:** `faster-whisper`, Flask, Multi-Engine TTS, Segmented Temporal Translation Alignment.
+
+#### 🎮 [Physical-Sandbox-v1.0](https://github.com)
+A high-performance, web-based 4D physics simulation sandbox utilizing web graphics hardware for parallel processing.
+* **Optimization:** Offloaded heavy particle calculations completely from the CPU to the graphics card using custom GPGPU fragment shaders.
+* **Core Tech:** Three.js, WebGL, GPUComputationRenderer, Custom GLSL Shaders.
+
+---
+
+### 📊 Tech Stack & Architecture Capabilities
+* **Languages:** Python, JavaScript, GLSL (Shader Language), HTML/CSS
+* **AI/ML Pipelines:** Whisper, XTTS, LLM Orchestration, Agentic Simulation Frameworks
+* **Frontend/Graphics:** Three.js, WebGL, Reactive UI Components
+* **Backend:** Flask, Event-Driven Orchestration, API Management
+
+---
+
+### 🤝 Connect With Me
+* **X (Twitter):** [Replace with your X link]
+* **LinkedIn:** [Replace with your LinkedIn link]
+
+*Open for remote deep-tech contract work, open-source collaborations, and developer grants.*
