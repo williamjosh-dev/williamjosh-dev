@@ -1,4 +1,4 @@
-# Hi, I'm William Josh 👋 
+# Hi, I'm Josh 👋 
 
 I am a 15-year-old AI & Full-Stack Engineer focused on high-velocity shipping, GPGPU processing, and resilient agentic architectures. 
 
