@@ -3,6 +3,7 @@
 I am a 15-year-old AI & Full-Stack Engineer focused on high-velocity shipping, GPGPU processing, and resilient agentic architectures. 
 
 🏆 **Global Ranking:** Placed 10th globally in the San Francisco Agentic AI Hackathon.
+
 🚀 **Focus:** Building self-healing pipelines and web-based parallel compute environments.
 
 ---
